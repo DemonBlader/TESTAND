@@ -2,4 +2,8 @@ ABCDELF
 AScccFF
 lmao
 hahaha
+<<<<<<< HEAD
 HAIYAA
+=======
+oh my god
+>>>>>>> 4a8bd16c6f85ef864d348841f58d401f5fdd62a9
