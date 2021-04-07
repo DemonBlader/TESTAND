@@ -1,6 +1,5 @@
 ABasdF
 AasccFF
-<<<<<<< HEAD
 lasdo
 hasdha
 HAIYAA
@@ -8,6 +7,4 @@ ohdasaddaaa
 hasdaaa
 asdssssf
 another
-=======
 
->>>>>>> df177c5ca0daa4440fc930b9489d85ef25cf850c
